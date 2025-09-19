@@ -1,0 +1,47 @@
+# Soujanya Bagali - Interactive Digital Portfolio
+
+## Overview
+This is my **Interactive Digital Portfolio**, designed to showcase my skills, projects, certificates, and professional experience in a visually appealing and interactive way. It serves as a personal branding tool, highlighting both my technical abilities and creativity.
+
+## Features
+- **Home / About Me:** Introduction and brief professional overview.  
+- **Skills:** Technical skills displayed with icons and visual indicators.  
+- **Projects:** Interactive project cards with descriptions and GitHub/live demo links.  
+- **Certificates:** Verified certificates with links to view them.  
+- **Resume:** View and download my professional resume.  
+- **Contact:** Social media links (GitHub, LinkedIn) and email contact.  
+- **Responsive Layout:** Works seamlessly on desktops, tablets, and mobile devices.  
+- **Interactive Elements:** Smooth animations, hover effects, and clickable project demos.
+
+## Technologies Used
+- HTML5  
+- CSS3  
+- JavaScript  
+- Font Awesome for icons  
+
+## Project Structure
+index.html ← Main portfolio page
+style.css ← Stylesheet for design and layout
+script.js ← Optional JavaScript for interactivity
+assets/ ← Images and other media files
+Resume.pdf ← Professional resume
+
+
+## How to Use
+1. Clone or download the repository.  
+2. Open `index.html` in a web browser.  
+3. Navigate through the portfolio using the navbar.  
+4. Click **View Resume** or **Download Resume** to access the resume.  
+5. Explore projects and certificates using the provided links.
+
+## Live Preview
+View the live portfolio here: [Live Demo](https://soujanyabagali.github.io/Resume/) *(update with your GitHub Pages link if hosted)*
+
+## Contact
+- GitHub: [SoujanyaBagali](https://github.com/Soujanyabagali)  
+- LinkedIn: [Soujanya Bagali](https://www.linkedin.com/in/soujanya-bagali-90531a354/)  
+- Email: soujanyabagali11@example.com  
+
+---
+
+** Soujanya Bagali**
